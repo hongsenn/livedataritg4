@@ -1,0 +1,2 @@
+rootProject.name = "livedataritg4"
+include ':app'
